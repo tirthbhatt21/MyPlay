@@ -14,7 +14,7 @@ Created On: 30 December 2023 [Saturday]
 
     
 =========================<br>
-[𝙲𝚕𝚒𝚌𝚔 𝙼𝚎 𝙵𝚘𝚛 𝙻𝚒𝚟𝚎 𝙳𝚎𝚖𝚘](https://rawcdn.githack.com/tirthbhatt21/DigitalClock/80c1d221777280a3e26a09be3dfd3ae7e4d9776a/Digital%20Clock/index.html)
+[𝙲𝚕𝚒𝚌𝚔 𝙼𝚎 𝙵𝚘𝚛 𝙻𝚒𝚟𝚎 𝙳𝚎𝚖𝚘](https://raw.githack.com/tirthbhatt21/MyPlay/master/index.html)
 <br>=========================
 
 Here I shared about used technologies and so on...
