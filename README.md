@@ -14,7 +14,7 @@ Created On: 30 December 2023 [Saturday]
 
     
 =========================<br>
-[𝙲𝚕𝚒𝚌𝚔 𝙼𝚎 𝙵𝚘𝚛 𝙻𝚒𝚟𝚎 𝙳𝚎𝚖𝚘](https://raw.githack.com/tirthbhatt21/MyPlay/master/index.html)
+[𝙲𝚕𝚒𝚌𝚔 𝙼𝚎 𝙵𝚘𝚛 𝙻𝚒𝚟𝚎 𝙳𝚎𝚖𝚘](https://tirthbhatt21.github.io/MyPlay/)
 <br>=========================
 
 Here I shared about used technologies and so on...
